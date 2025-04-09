@@ -24,6 +24,6 @@
 
 ## 📊 Android Lifecycle Diagram
 
-![Android Lifecycle](images/android-lifecycle-diagram.png)
+![Android Lifecycle](https://res.cloudinary.com/dsb6hxs2q/image/upload/v1744222216/owidpdpzbpagud112wwd.png)
 
 
