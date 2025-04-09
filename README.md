@@ -22,6 +22,7 @@
 ##### 🧪 Includes sample projects, code snippets, and exercises to help solidify your understanding of Android development with Kotlin. 
 
 
+
 ## 📊 Android Lifecycle Diagram
 
 ![Android Lifecycle](https://res.cloudinary.com/dsb6hxs2q/image/upload/v1744222216/owidpdpzbpagud112wwd.png)
