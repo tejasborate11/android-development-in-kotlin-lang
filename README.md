@@ -19,8 +19,9 @@
 
 ##### - Best Practices: MVVM architecture, dependency injection (with Hilt or Dagger), modularization, and code reusability.
 
-##### 🧪 Includes sample projects, code snippets, and exercises to help solidify your understanding of Android development with Kotlin.
+##### 🧪 Includes sample projects, code snippets, and exercises to help solidify your understanding of Android development with Kotlin. 
 
+## -------------------------------------------------------------------------------------------------------
 
 ## 📊 Android Lifecycle Diagram
 
