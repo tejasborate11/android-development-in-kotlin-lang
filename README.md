@@ -24,5 +24,6 @@
 
 ## 📊 Android Lifecycle Diagram
 
-![Android Lifecycle](images/Screenshot 2025-04-09 232524.png)
+![Android Lifecycle](images/android-lifecycle-diagram.png)
+
 
